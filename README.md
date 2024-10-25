@@ -8,6 +8,7 @@ This is a Python GUI application for evaluating metrics. The user needs to provi
 - Accuracy
 - Sensitivity
 
+A GUI screenshot is also uplaoded to show how it looks like...
 Have Fun !!!
 ## Features
 
